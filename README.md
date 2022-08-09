@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlpoxDev"
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
+    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%233DC8B3&title_bg=%23555555&icon=github.svg&icon_color=%23DBD3D3&title=hits&edge_flat=false"/></a> 
 </div>         
     
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Seungri&nbsp;Kim&fontSize=90)
