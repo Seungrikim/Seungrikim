@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 <div>
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlpoxDev"
 </div>         
-
+&nbsp;
+    
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Seungri&nbsp;Kim&fontSize=90)
 
 <h3 align=“center”> ⚡ Tech Stack ⚡</h3>
@@ -30,7 +31,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/></a>&nbsp <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
 
 
-  
+&nbsp; 
 
 <p align=“center”>
 <a href="https://www.linkedin.com/in/seungrikim/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/seungrikim/"/></a>&nbsp
