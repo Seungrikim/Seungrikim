@@ -17,11 +17,10 @@ Here are some ideas to get you started:
 <div>
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlpoxDev"
 </div>         
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Seungri&nbsp;&nbsp;Kim&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Seungri&nbsp;Kim&fontSize=90)
     
-##People-oriented engineer with growth-mindset, Combine my passion for design and technology to build products that simplify people's lives. 
+## People-oriented engineer with growth-mindset, Combine my passion for design and technology to build products that simplify people's lives. 
 
 <h3 align=“center”> ⚡ Tech Stack ⚡</h3>
 
