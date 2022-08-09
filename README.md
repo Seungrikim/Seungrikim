@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 <div>
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlpoxDev"
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
 </div>         
     
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Seungri&nbsp;Kim&fontSize=90)
