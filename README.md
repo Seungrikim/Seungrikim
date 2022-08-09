@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Seungri&nbspKim&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Seungri&nbsp;Kim&fontSize=90)
 
 <h3 align=“center”> ⚡ Tech Stack ⚡</h3>
 
