@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 
 &nbsp;
-<h3 align=“center”> 📫 How to reach me </h3>
+<h3 align=“center”> 📫 How to reach me</h3>
 <p align=“center”>
 <a href="https://www.linkedin.com/in/seungrikim/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/seungrikim/"/></a>&nbsp
 <a href="mailto:srkim@berkeley.edu"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:srkim@berkeley.edu"/></a>&nbsp
